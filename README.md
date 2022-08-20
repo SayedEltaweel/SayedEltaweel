@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @SayedEltaweel
+- 👋 Hi, I’m @SayedEltaweel and I'm a senior student in Faculty of Petroleum Engineering, Cairo University
+     and I have trained in many places such as NORPETCO and Halliburton companies.
+
 - 👀 I’m interested in Petroleum Engineering and analzying the data that comes from wells.
 - 🌱 I’m currently learning Python and getting through it.
 - 💞️ I’m looking to collaborate on data analysis courses
