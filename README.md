@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SayedEltaweel and I'm a senior student in Faculty of Petroleum Engineering, Cairo University
-     and I have trained in many places such as NORPETCO and Halliburton companies.
+- 👋 Hi, I’m @SayedEltaweel and I'm a fresh graduate from the Faculty of Petroleum Engineering, Cairo University.
+     I have trained in many companies such as Halliburton Petroleum Company, Streamlines Oil and Gas Company, and North Bahsriya Petroleum Company.
 
 - 👀 I’m interested in Petroleum Engineering and analzying the data that comes from wells.
 - 🌱 I’m currently learning Python and getting through it.
